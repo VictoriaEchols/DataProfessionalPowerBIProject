@@ -26,11 +26,10 @@ Through the Power BI analysis, several significant insights emerged:
 The survey breakdown offers a valuable snapshot of the data profession landscape, highlighting the diverse backgrounds, skills, and aspirations of those in the field. It underscores the importance of continuous learning and adaptation to new technologies in the rapidly evolving data industry. These insights can guide aspiring data professionals in their career choices and professional development, as well as inform employers about the preferences and needs of their data teams.
 
 ## Process
-![Screenshot 2024-02-16 003831](https://github.com/VictoriaEchols/DataProfessionalPowerBIProject/assets/157342613/82c1b8d8-41cd-408f-bc6a-9adcdb9283e6)
-
 
 The analysis process in Power BI involved several steps:
 1. **Data Import and Cleansing**: Loading the survey data into Power BI and performing necessary data cleaning to ensure accuracy.
+   ![Screenshot 2024-02-16 003831](https://github.com/VictoriaEchols/DataProfessionalPowerBIProject/assets/157342613/82c1b8d8-41cd-408f-bc6a-9adcdb9283e6)
 2. **Data Modeling**: Structuring the data to facilitate insightful analysis and visualization.
 3. **Visualization and Analysis**: Creating a series of interactive dashboards and reports to explore the survey data from multiple angles.
 4. **Insight Synthesis**: Drawing conclusions from the data visualizations to identify key trends and insights into the data profession.
