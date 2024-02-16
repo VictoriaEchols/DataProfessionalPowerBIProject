@@ -32,6 +32,7 @@ The analysis process in Power BI involved several steps:
    ![Screenshot 2024-02-16 003831](https://github.com/VictoriaEchols/DataProfessionalPowerBIProject/assets/157342613/82c1b8d8-41cd-408f-bc6a-9adcdb9283e6)
 2. **Data Modeling**: Structuring the data to facilitate insightful analysis and visualization.
 3. **Visualization and Analysis**: Creating a series of interactive dashboards and reports to explore the survey data from multiple angles.
+![Screenshot 2024-02-16 004508](https://github.com/VictoriaEchols/DataProfessionalPowerBIProject/assets/157342613/b8d2c148-57f8-43f3-8cb1-76b9271e813e)
 4. **Insight Synthesis**: Drawing conclusions from the data visualizations to identify key trends and insights into the data profession.
 
 This project not only sheds light on the current state of the data profession but also serves as a testament to the power of data visualization in extracting meaningful insights from complex datasets.
